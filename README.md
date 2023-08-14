@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm currently working on latest projects<br>🤝I'm looking to collaborate on PWAs<br>💭Ask me about any programming language<br>⚡Fun fact : I love coffee<br>
+💻I'm currently working on latest projects<br>🤝I'm looking to collaborate on PWAs<br>💭Ask me about any programming language<br>⚡Fun fact : I love coffee☕<br>
 
 
 ## 🌐 Socials:
