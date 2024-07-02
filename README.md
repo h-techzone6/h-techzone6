@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm h-techzone6</h1>
-<h3>Tech Enthusiastic</h3>
+<h3>Tech Enthusiastic ✨</h3>
 
 - 🔭 I’m currently working on [E-commerce App](github.com/h-techzone6/mernadmin)
 
